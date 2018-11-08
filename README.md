@@ -5,7 +5,7 @@ Divyanshu Talwar, Aanchal Mongia, Debarka Sengupta, and Angshul Majumdar
 ## Introduction
 `AutoImpute` is an auto-encoder based gene-expression (sparse) matrix imputation.
 
-For detailed information refer to our paper titled "AutoImpute : Autoencoder based imputation of single cell RNA-seq data".
+For detailed information refer to our paper titled "[AutoImpute : Autoencoder based imputation of single cell RNA-seq data](https://www.nature.com/articles/s41598-018-34688-x)".
 
 -	For technical problems, please report to [Issues](https://github.com/divyanshu-talwar/AutoImpute/issues).
 
